@@ -12,12 +12,12 @@
 
 # Proof of Work
 
-#### Using rockyou
+### Using default diccionary
 
 ![2023-02-14_13-30](https://user-images.githubusercontent.com/97669969/218752197-1b988710-e69b-4bfb-bcd6-37df8f26aa91.png)
 
 
-##### Proof of Work [own diccionary based on the victim's information gatering]
+### Proof of Work [own diccionary]
 
 
 
