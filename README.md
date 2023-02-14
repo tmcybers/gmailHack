@@ -6,7 +6,7 @@
 
 * Download rockyou.txt diccionary from releases area
 
->>> If you use the default diccionary rockyou , simply put it in the same folder as gmailHack.
+**If you use the default diccionary rockyou , simply put it in the same folder as gmailHack**
 
 >>> TIP: You can use your own diccionary attack.
 
