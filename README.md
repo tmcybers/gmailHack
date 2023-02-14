@@ -8,7 +8,7 @@
 
 **If you use the default diccionary rockyou , simply put it in the same folder as gmailHack**
 
->>> TIP: You can use your own diccionary attack.
+>>>>>>> TIP: You can use your own diccionary attack based on the victim's information gatering.
 
 # Proof of Work
 
