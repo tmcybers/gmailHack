@@ -28,7 +28,7 @@
 
 
 
-# The misuse of this tool, it is not my responsibility
+# The misuse of this tool, it is not my responsibility!
 > chau
 
 
