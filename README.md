@@ -24,7 +24,11 @@
 ![2023-02-14_13-12](https://user-images.githubusercontent.com/97669969/218752634-42fa62b0-2a00-41e8-8801-62c405c90e2e.png)
 
 
+>>>>>> Requirements: python 3
 
+
+
+*you are responsible for the misuse of this tool*
 
 
 
