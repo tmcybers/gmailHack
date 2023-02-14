@@ -5,7 +5,7 @@
   <a href="https://github.com/tmcybers/gmailHack"><img src="gmailhacklogo.png" width="500px" alt="gmailHack"></a>
 </h1>
 
-<h4 align="center">Fast and customisable brute force attack script for penetration testing based on python.</h4>
+<h4 align="center">Fast and customisable brute force attack script for penetration testing on gmail accounts based on python.</h4>
 
 
 
