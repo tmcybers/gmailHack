@@ -10,6 +10,8 @@
 
 >>>>>>> TIP: You can use your own diccionary attack based on the victim's information gatering.
 
+---
+
 # Proof of Work
 
 ### Using default diccionary
@@ -19,12 +21,13 @@
 
 ### Proof of Work [own diccionary]
 
-
-
 ![2023-02-14_13-12](https://user-images.githubusercontent.com/97669969/218752634-42fa62b0-2a00-41e8-8801-62c405c90e2e.png)
 
+---
 
 >>>>>> The only Requirements are: python 3
+
+---
 
 ---
 
