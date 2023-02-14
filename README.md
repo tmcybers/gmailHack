@@ -7,7 +7,10 @@
 <a href="https://github.com/tmcybers/gmailHack/releases/tag/gmailHack"><img src="https://img.shields.io/badge/open%20issues-0-blue">
 <a href="https://github.com/tmcybers/gmailHack/releases/tag/gmailHack"><img src="https://img.shields.io/badge/discussions-2-orange">
 <a href="https://t.me/+l5WYQySOL-0yMDQ0"><img src="https://img.shields.io/badge/chat-online-brightgreen?style=plastic&logo=telegram">
- 
+<a href="https://twitter.com/tmcybers"><img src="https://img.shields.io/badge/folow-tmcyber-blue?style=plastic&logo=twitter">
+<a href="https://twitter.com/tmcybers"><img src="https://img.shields.io/badge/folow-tmcyber-blue?style=plastic&logo=mastodon">
+<a href="https://www.tiktok.com/@onehackerway27"><img src="https://img.shields.io/badge/folow-tmcyber-blue?style=plastic&logo=tiktok">
+
   
   
 </p>
