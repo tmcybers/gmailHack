@@ -1,8 +1,8 @@
-# Usage
+## Usage
 
 * Download gmailHack.py from releases area or git clone the repo.
 
->> Recomended way!
+# Recomended way!
 
 * Download rockyou.txt diccionary from releases area
 
