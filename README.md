@@ -28,8 +28,8 @@
 
 
 
-# The misuse of this tool, it is not my responsibility!
-> chau
+#### The misuse of this tool, it is not my responsibility!
+###### Tool created for ethical purposes and testing!
 
 
 
