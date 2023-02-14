@@ -8,7 +8,7 @@
 <h4 align="center">Fast and customisable brute force attack script for penetration testing on gmail accounts based on python.</h4>
 
 
-
+---
 
 
 
@@ -32,16 +32,15 @@
   
 ## Usage
 
-* Download gmailHack.py from releases area or git clone the repo.
----
+* Download `gmailHack.py` from *releases area* or git clone the repo, chose opcion "2" and use your own build diccionary attack. 
 
-# Recomended way!
+## Recomended way!
 
-* Download rockyou.txt diccionary from releases area
+* Download both `gmailHack.py` and `rockyou.txt` diccionary from releases area *gmailHack is using rockyou as default diccionary attack*
 
 **If you use the default diccionary attack simply put rockyou it in the same folder as gmailHack**
 
->>>>>>> TIP: You can use your own diccionary attack based on the victim's information gatering.
+> TIP: You can use your own diccionary attack based on the victim's information gatering.
 
 ---
 
