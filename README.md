@@ -28,8 +28,8 @@
 
 
 
-*you are responsible for the misuse of this tool*
-
+# The misuse of this tool, it is not my responsibility
+> chau
 
 
 
