@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/tmcybers/gmailHack"><img src="gmailhacklogo.png" width="200px" alt="gmailHack"></a>
+  <a href="https://github.com/tmcybers/gmailHack"><img src="gmailhacklogo.png" width="500px" alt="gmailHack"></a>
 </h1>
 
 <h4 align="center">Fast and customisable brute force attack script for penetration testing based on python.</h4>
