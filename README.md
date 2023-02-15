@@ -28,6 +28,15 @@
   
 </p>
 
+# Important for you!
+
+**The purpose of that I creating this tool is research and learning**
+* For the moment does not work because it requires "less secure apps" disabled for your google account, now days google doesn't let us touch it, which I don't see as normal. [I'm investigating how we can get away from it]
+G-Mail account google will block that account temporary from login and stuff. The script is working perfectly but we are dealing with google.
+
+**I'm working on it and researching how to escape the matrix from google, so I won't archive the repo, because I'm open to issues**
+
+**If you want to contribute with me in the tool and do it both, feel free to communicate with me on [telegram](https://t.me/+l5WYQySOL-0yMDQ0) or [proton](tmcybers@proton.me)**
 
   
 ## Usage
