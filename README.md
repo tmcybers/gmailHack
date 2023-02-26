@@ -22,7 +22,6 @@
 <a href="https://t.me/+l5WYQySOL-0yMDQ0"><img src="https://img.shields.io/badge/chat-online-brightgreen?style=plastic&logo=telegram">
 <a href="https://twitter.com/tmcybers"><img src="https://img.shields.io/badge/folow-tmcyber-blue?style=plastic&logo=twitter">
 <a href="https://twitter.com/tmcybers"><img src="https://img.shields.io/badge/folow-tmcyber-blue?style=plastic&logo=mastodon">
-<a href="https://www.tiktok.com/@onehackerway27"><img src="https://img.shields.io/badge/folow-tmcyber-blue?style=plastic&logo=tiktok">
 <a href="https://tmcybers.github.io/Donate"><img src="https://img.shields.io/badge/support-tmcyber-blue?style=plastic&logo=donate">
   
   
