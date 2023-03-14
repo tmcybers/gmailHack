@@ -69,10 +69,10 @@ G-Mail account google will block that account temporary from login and stuff. Th
 
 ---
 
-#### The misuse of this tool, it is not my responsibility!
+
 ###### Tool created for ethical purposes and testing!
 
 
 ---
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=I+am+not+responsible+for+[the+misuse+of+my+tools]!)](https://git.io/typing-svg)
